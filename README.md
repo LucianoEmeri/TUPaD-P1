@@ -3,4 +3,4 @@ Análisis e Implementación de Algoritmos de Búsqueda  y Ordenamiento para la G
 
 Documentación: https://docs.google.com/document/d/1gCoD1TfQnovPcC8ZxbCpFOytMEu6cZl-h1bsbtXR3As/edit?usp=sharing
 
-Video de Youtube: 
+Video de Youtube: https://youtu.be/ceu-b7A0k18
